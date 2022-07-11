@@ -1,6 +1,6 @@
 # Financial Planning
 
-This is a python prototype application using pandas by building a tool to help members evaluate their own financial health such as calculating their monthly budgets and planning for their retirement based on the current market.
+This is a python prototype application programming interfaces (APIs) using pandas by building a tool to help members evaluate their own financial health such as calculating their monthly budgets and planning for their retirement based on the current market.
 
 ---
 
@@ -8,7 +8,7 @@ This is a python prototype application using pandas by building a tool to help m
 
 This project leverages python 3.7 with the following package:
 
-* [Pandas](https://pandas.pydata.org/) - For the machine learning, data analysis, and entrypoint.
+* [Pandas](https://pandas.pydata.org/) - For data analysis and entrypoint.
 
 ---
 
